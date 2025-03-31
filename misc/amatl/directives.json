@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Break Page",
+      "code": "<div class='break-page'></div>",
+      "replacePattern": "",
+      "description": "Break Page"
+    },
+    {
+      "name": "Cover Page",
+      "code": ":include{url=\"./tools/templates/cadoles/pagegarde.md\"}",
+      "replacePattern": "",
+      "description": "Insert Cover Page"
+    }
+  ]
+  

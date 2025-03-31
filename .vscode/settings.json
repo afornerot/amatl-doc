@@ -1,0 +1,5 @@
+{
+    "amatl.generateHtmlOnSave": true,
+    "amatl.generatePdfOnSave": true,
+    "amatl.configDirectory": "misc/amatl"
+}
