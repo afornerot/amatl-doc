@@ -7,7 +7,7 @@
     },
     {
       "name": "Cover Page",
-      "code": ":include{url=\"./tools/templates/cadoles/pagegarde.md\"}",
+      "code": ":include{url=\"./misc/amatl/pagegarde.md\"}",
       "replacePattern": "",
       "description": "Insert Cover Page"
     }
