@@ -1,4 +1,4 @@
-![logo](logo.jpg)
+![logo](logo.png)
 
 <div class="title">
 {{ .Meta.title }}
